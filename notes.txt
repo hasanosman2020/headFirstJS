@@ -1,0 +1,5 @@
+1. Create the iRock html web page
+2. Add a JavaScript alert to make the rock greet users when the iRock wqeb page is loaded.
+3. Write JavaScript code to ask for the user's name, print out a personalised greeting, and make the rock smile.
+Add an event handler so that when users click on the rock, the code you wrote in step 3 runs.titude of your boss.
+Win the admiration and lavish gratitude of your boss.
